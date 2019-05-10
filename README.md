@@ -2,7 +2,7 @@
 
 Members: John Jacobsen
 Class User Accounts: cssc0400
-REDIDs: 820405580, 820252778, 820103915
+REDIDs: 820405580
 
 
 CS530, Spring 2019
